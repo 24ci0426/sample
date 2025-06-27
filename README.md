@@ -1,3 +1,3 @@
 # sample
 is sample
-$ git push origin :{sample}
+git push origin :{sample}
